@@ -44,7 +44,7 @@ const Hero = () => {
             </a>
             <div className="flex items-center space-x-2">
               <MapPin size={20} />
-              <span>Tirupati, Andhra Pradesh, India</span>
+              <span>Chittoor, Andhra Pradesh, India</span>
             </div>
           </div>
         </div>

@@ -81,7 +81,7 @@ const Contact = () => {
                 <h3 className="text-lg font-semibold text-gray-900">
                   Location
                 </h3>
-                <p className="text-gray-600">Tirupati, Andhra Pradesh, India</p>
+                <p className="text-gray-600">Chittoor, Andhra Pradesh, India</p>
               </div>
             </div>
           </div>

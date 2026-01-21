@@ -8,8 +8,16 @@ const Projects = () => {
       organization: "Apollo University",
       date: "March 2025",
       location: "Chittoor",
-      description: "Designed an Arduino-based wheelchair with Bluetooth & mobile voice commands. Applied embedded systems & AI-driven control for assistive healthcare technology.",
-      technologies: ["Arduino", "Bluetooth", "AI Control", "Embedded Systems", "Mobile Integration"]
+      description: "Designed and implemented a voice-controlled system for hands-free wheelchair navigation, achieving 90% command recognition accuracy. Built a speech-to-command pipeline with safety error handling, reducing incorrect command execution by 30%.",
+      technologies: ["Arduino", "Speech Recognition", "AI Control", "Embedded Systems", "Safety Systems"]
+    },
+    {
+      title: "TapNGo – IoT-Based Smart Home Automation System",
+      organization: "Personal Project",
+      date: "October 2025",
+      location: "Chittoor",
+      description: "Developed an IoT-based smart home automation system enabling real-time control of 5+ household appliances via mobile/web interfaces. Implemented device communication and logic, improving response time by 30% and reducing manual intervention.",
+      technologies: ["IoT", "Mobile Development", "Web Interface", "Real-time Communication", "Device Integration"]
     }
   ];
 

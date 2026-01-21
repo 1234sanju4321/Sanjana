@@ -14,7 +14,12 @@ const Header = () => {
 
   const downloadResume = () => {
     // In a real implementation, this would link to an actual PDF
-    window.open('#', '_blank');
+    const link = document.createElement('a');
+    link.href = '/software_engineer_(4).pdf';
+    link.download = 'Challa_Sanjana_Resume.pdf';
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
   };
 
   return (
