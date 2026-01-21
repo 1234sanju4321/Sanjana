@@ -11,7 +11,7 @@ const Skills = () => {
     {
       category: "Development",
       icon: <Code className="w-6 h-6 text-blue-600" />,
-      skills: ["HTML", "CSS", "JavaScript", "Flask", "Django", "MERN Stack"]
+      skills: ["HTML", "CSS", "JavaScript", "Rest APIs", "Flask", "Django", "MERN Stack"]
     },
     {
       category: "Databases",

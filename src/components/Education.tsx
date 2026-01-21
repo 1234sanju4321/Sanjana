@@ -4,22 +4,22 @@ import { GraduationCap, Calendar } from 'lucide-react';
 const Education = () => {
   const education = [
     {
-      degree: "B.Tech, Computer Science & Engineering",
+      degree: "B.Tech - Computer Science and Engineering",
       institution: "The Apollo University, Chittoor",
-      year: "2027",
+      year: "Expected Graduation: 2027",
       grade: "CGPA: 9.88"
     },
     {
       degree: "Higher Secondary",
-      institution: "Jawahar Navodaya Vidyalaya, Nellore",
+      institution: "Jawahar Navodaya Vidhyalaya, Nellore",
       year: "2023",
-      grade: "8.20"
+      grade: "Percentage: 82%"
     },
     {
       degree: "Secondary School",
-      institution: "Jawahar Navodaya Vidyalaya, Nellore",
+      institution: "Jawahar Navodaya Vidhyalaya, Nellore",
       year: "2021",
-      grade: "8.80"
+      grade: "Percentage: 88%"
     }
   ];
 

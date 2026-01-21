@@ -4,9 +4,14 @@ import { Award, Calendar } from 'lucide-react';
 const Certifications = () => {
   const certifications = [
     {
-      title: "Web Development",
-      issuer: "CSI Student Chapter",
-      year: "2023"
+      title: "NPTEL - DBMS",
+      issuer: "NPTEL",
+      year: "2025"
+    },
+    {
+      title: "NPTEL - Introduction to Machine learning",
+      issuer: "NPTEL",
+      year: "2025"
     },
     {
       title: "Generative AI at SAP",
@@ -14,18 +19,28 @@ const Certifications = () => {
       year: "2024"
     },
     {
+      title: "Software Engineering",
+      issuer: "Electronic Arts",
+      year: "2025"
+    },
+    {
+      title: "Google Cloud Computing",
+      issuer: "Google Skills",
+      year: "2024"
+    },
+    {
+      title: "Crash Course on Python",
+      issuer: "Google (Coursera)",
+      year: "2026"
+    },
+    {
+      title: "Web Development",
+      issuer: "The Apollo University",
+      year: "2025"
+    },
+    {
       title: "Prompt Engineering",
-      issuer: "The Coding Club, Apollo University",
-      year: "2024"
-    },
-    {
-      title: "Google Cloud Platform",
-      issuer: "Dr. Pallamasetti Innovations",
-      year: "2024"
-    },
-    {
-      title: "Google Cloud Computing Foundations Certificate",
-      issuer: "Google Cloud",
+      issuer: "The Apollo University",
       year: "2024"
     }
   ];
@@ -35,7 +50,7 @@ const Certifications = () => {
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-12">
           <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-            Certifications
+            Awards & Certifications
           </h2>
           <div className="w-24 h-1 bg-blue-600 mx-auto"></div>
         </div>

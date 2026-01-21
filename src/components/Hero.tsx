@@ -14,7 +14,7 @@ const Hero = () => {
               Challa Sanjana
             </h1>
             <p className="text-xl md:text-2xl text-gray-600 mb-8 max-w-3xl mx-auto leading-relaxed">
-              Enthusiastic Computer Science student passionate about AI, ML, and web technologies.
+              Computer Science Engineering undergraduate with hands-on experience in Software development, ML pipelines, and AI-driven automation.
             </p>
           </div>
 
@@ -34,7 +34,7 @@ const Hero = () => {
               <span>7382211929</span>
             </a>
             <a
-              href="https://www.linkedin.com/in/sanjanachalla"
+              href="https://www.linkedin.com/in/Sanjana%20Challa"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center space-x-2 hover:text-blue-600 transition-colors"

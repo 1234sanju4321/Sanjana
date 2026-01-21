@@ -13,11 +13,9 @@ const About = () => {
 
         <div className="max-w-4xl mx-auto">
           <p className="text-lg text-gray-700 leading-relaxed text-center">
-            Enthusiastic Computer Science student with expertise in AI, ML, and web technologies. 
-            Skilled in communication, problem-solving, and teamwork with a strong focus on innovation 
-            and adaptability. Contributed to impactful projects including AI-based stroke detection 
-            and a voice-controlled smart wheelchair, aiming to leverage human-centered design and 
-            emerging technologies to create meaningful impact.
+            Computer Science Engineering undergraduate with hands-on experience in Software development, ML pipelines,
+            and AI-driven automation. Proficient in Python, RESTful APIs, and backend systems, with a strong foundation in
+            Data structures and OOPs, delivering measurable impact through internships and projects.
           </p>
         </div>
       </div>

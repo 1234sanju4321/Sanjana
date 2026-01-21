@@ -7,17 +7,17 @@ const Experience = () => {
       title: "AI Tools Intern",
       company: "Sri Padmavati Mahila Visva Vidyalayam",
       duration: "May 2025 – Aug 2025",
-      location: "Tirupati",
+      location: "Tools Used: Generative AI tools, APIs, GitHub",
       responsibilities: [
         "Streamlined backend workflows using generative AI tools and APIs, integrated with GitHub, resulting in a 30% reduction in processing time",
         "Built modular prototypes integrating generative AI APIs for workflow automation; collaborated with a 4-member team on performance and failure analysis"
       ]
     },
     {
-      title: "Machine Learning Engineer",
+      title: "Machine Learning Engineer Intern",
       company: "CDHPM",
-      duration: "June 2025 – July 2025",
-      location: "Chittoor",
+      duration: "Jun 2025 – Jul 2025",
+      location: "Tools Used: Python, R",
       responsibilities: [
         "Built Python pipelines to preprocess and validate 10k+ healthcare records, reducing noisy inputs by 25%",
         "Facilitated workshops with 3 domain experts to define feature engineering strategies and evaluation metrics for ML models, leading to a 20% improvement in model performance on key clinical tasks"
