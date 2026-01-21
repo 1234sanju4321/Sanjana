@@ -13,13 +13,8 @@ const Header = () => {
   };
 
   const downloadResume = () => {
-    // In a real implementation, this would link to an actual PDF
-    const link = document.createElement('a');
-    link.href = '/sanjana_resume.pdf';
-    link.download = 'Challa_Sanjana_Resume.pdf';
-    document.body.appendChild(link);
-    link.click();
-    document.body.removeChild(link);
+    // Open the resume in a new tab for viewing/downloading
+    window.open('/sanjana_resume.pdf', '_blank');
   };
 
   return (
